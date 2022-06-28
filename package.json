@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HVNuaIT/nodejs_hello.git"
+  },
+  "keywords": [
+    "blog",
+    "nodejs"
+  ],
+  "author": "nuaIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HVNuaIT/nodejs_hello/issues"
+  },
+  "homepage": "https://github.com/HVNuaIT/nodejs_hello#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
